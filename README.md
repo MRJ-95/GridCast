@@ -58,7 +58,7 @@ You will need the following CSV files:
 - `weather_features.csv`
 
 Place them in the `data/` folder. If not available, download them from:
-[Kaggle Energy Data](https://www.kaggle.com/datasets/robikscube/hourly-energy-consumption)
+[Kaggle Energy Data](https://www.kaggle.com/datasets/nicholasjhana/energy-consumption-generation-prices-and-weather/data)
 
 ---
 
