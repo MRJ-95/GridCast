@@ -55,6 +55,9 @@ Place them in the `data/` folder. If not available, download them from:
 
 ## 📈 Results Snapshot
 
-- ✅ Generation source prediction accuracy: **~70%** (with lag features)
+- ✅ Generation source prediction accuracy: **~79%** (with lag features)
 - ⚔️ TSO vs Model MAE: **lower by X%** on demand prediction
 - 🔬 Top features: `wind_speed`, `hour`, `total load actual`, `solar`
+
+  ![image](https://github.com/user-attachments/assets/0726e8ba-469d-40f7-b819-7e27cf45bd50)
+
