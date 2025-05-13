@@ -28,7 +28,7 @@ This project forecasts electricity demand, market price, and generation source a
 
 ## 📁 Repository Structure
 
-```
+
 energy-forecasting/
 ├── notebooks/
 │   └── Energy_Forecasting.ipynb        # Main analysis notebook
@@ -38,15 +38,6 @@ energy-forecasting/
 │   └── model_training.py (optional)    # Future modular pipeline
 ├── requirements.txt
 └── README.md
-```
-
----
-
-## 📦 Setup
-
-```bash
-pip install -r requirements.txt
-```
 
 ---
 
@@ -67,15 +58,3 @@ Place them in the `data/` folder. If not available, download them from:
 - ✅ Generation source prediction accuracy: **~70%** (with lag features)
 - ⚔️ TSO vs Model MAE: **lower by X%** on demand prediction
 - 🔬 Top features: `wind_speed`, `hour`, `total load actual`, `solar`
-
----
-
-## 🤝 Contributions
-
-Pull requests welcome! Feel free to fork and experiment.
-
----
-
-## 📜 License
-
-MIT License
